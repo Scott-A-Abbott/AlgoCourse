@@ -1,0 +1,11 @@
+/Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.csprojAssemblyReference.cache
+/Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.csproj.CoreCompileInputs.cache
+/Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.AssemblyInfoInputs.cache
+/Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.AssemblyInfo.cs
+/Users/wolfe/projects/c-sharp/breadth-first/bin/Debug/netcoreapp2.2/breadth-first.deps.json
+/Users/wolfe/projects/c-sharp/breadth-first/bin/Debug/netcoreapp2.2/breadth-first.runtimeconfig.json
+/Users/wolfe/projects/c-sharp/breadth-first/bin/Debug/netcoreapp2.2/breadth-first.runtimeconfig.dev.json
+/Users/wolfe/projects/c-sharp/breadth-first/bin/Debug/netcoreapp2.2/breadth-first.dll
+/Users/wolfe/projects/c-sharp/breadth-first/bin/Debug/netcoreapp2.2/breadth-first.pdb
+/Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.dll
+/Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.pdb
