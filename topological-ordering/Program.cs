@@ -18,7 +18,7 @@ class Program
         graph[2].addNeighbor(graph[3]);
         graph[3].addNeighbor(graph[1]);
         graph[4].addNeighbor(graph[0]);
-        graph[5].addNeighbor(graph[1]);
+        graph[4].addNeighbor(graph[1]);
         graph[5].addNeighbor(graph[0]);
         graph[5].addNeighbor(graph[2]);
 
