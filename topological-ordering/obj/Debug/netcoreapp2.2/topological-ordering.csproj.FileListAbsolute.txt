@@ -1,0 +1,11 @@
+D:\projects\AlgoCourse\topological-ordering\obj\Debug\netcoreapp2.2\topological-ordering.csprojAssemblyReference.cache
+D:\projects\AlgoCourse\topological-ordering\obj\Debug\netcoreapp2.2\topological-ordering.csproj.CoreCompileInputs.cache
+D:\projects\AlgoCourse\topological-ordering\obj\Debug\netcoreapp2.2\topological-ordering.AssemblyInfoInputs.cache
+D:\projects\AlgoCourse\topological-ordering\obj\Debug\netcoreapp2.2\topological-ordering.AssemblyInfo.cs
+D:\projects\AlgoCourse\topological-ordering\bin\Debug\netcoreapp2.2\topological-ordering.deps.json
+D:\projects\AlgoCourse\topological-ordering\bin\Debug\netcoreapp2.2\topological-ordering.runtimeconfig.json
+D:\projects\AlgoCourse\topological-ordering\bin\Debug\netcoreapp2.2\topological-ordering.runtimeconfig.dev.json
+D:\projects\AlgoCourse\topological-ordering\bin\Debug\netcoreapp2.2\topological-ordering.dll
+D:\projects\AlgoCourse\topological-ordering\bin\Debug\netcoreapp2.2\topological-ordering.pdb
+D:\projects\AlgoCourse\topological-ordering\obj\Debug\netcoreapp2.2\topological-ordering.dll
+D:\projects\AlgoCourse\topological-ordering\obj\Debug\netcoreapp2.2\topological-ordering.pdb
