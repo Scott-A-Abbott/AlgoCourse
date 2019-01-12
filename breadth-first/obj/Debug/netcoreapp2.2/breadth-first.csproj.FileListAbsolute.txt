@@ -9,3 +9,14 @@
 /Users/wolfe/projects/c-sharp/breadth-first/bin/Debug/netcoreapp2.2/breadth-first.pdb
 /Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.dll
 /Users/wolfe/projects/c-sharp/breadth-first/obj/Debug/netcoreapp2.2/breadth-first.pdb
+D:\projects\AlgoCourse\breadth-first\bin\Debug\netcoreapp2.2\breadth-first.deps.json
+D:\projects\AlgoCourse\breadth-first\bin\Debug\netcoreapp2.2\breadth-first.runtimeconfig.json
+D:\projects\AlgoCourse\breadth-first\bin\Debug\netcoreapp2.2\breadth-first.runtimeconfig.dev.json
+D:\projects\AlgoCourse\breadth-first\bin\Debug\netcoreapp2.2\breadth-first.dll
+D:\projects\AlgoCourse\breadth-first\bin\Debug\netcoreapp2.2\breadth-first.pdb
+D:\projects\AlgoCourse\breadth-first\obj\Debug\netcoreapp2.2\breadth-first.csprojAssemblyReference.cache
+D:\projects\AlgoCourse\breadth-first\obj\Debug\netcoreapp2.2\breadth-first.csproj.CoreCompileInputs.cache
+D:\projects\AlgoCourse\breadth-first\obj\Debug\netcoreapp2.2\breadth-first.AssemblyInfoInputs.cache
+D:\projects\AlgoCourse\breadth-first\obj\Debug\netcoreapp2.2\breadth-first.AssemblyInfo.cs
+D:\projects\AlgoCourse\breadth-first\obj\Debug\netcoreapp2.2\breadth-first.dll
+D:\projects\AlgoCourse\breadth-first\obj\Debug\netcoreapp2.2\breadth-first.pdb
