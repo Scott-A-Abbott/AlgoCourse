@@ -1,0 +1,11 @@
+D:\projects\AlgoCourse\depth-first\obj\Debug\netcoreapp2.2\depth-first.csprojAssemblyReference.cache
+D:\projects\AlgoCourse\depth-first\obj\Debug\netcoreapp2.2\depth-first.csproj.CoreCompileInputs.cache
+D:\projects\AlgoCourse\depth-first\obj\Debug\netcoreapp2.2\depth-first.AssemblyInfoInputs.cache
+D:\projects\AlgoCourse\depth-first\obj\Debug\netcoreapp2.2\depth-first.AssemblyInfo.cs
+D:\projects\AlgoCourse\depth-first\bin\Debug\netcoreapp2.2\depth-first.deps.json
+D:\projects\AlgoCourse\depth-first\bin\Debug\netcoreapp2.2\depth-first.runtimeconfig.json
+D:\projects\AlgoCourse\depth-first\bin\Debug\netcoreapp2.2\depth-first.runtimeconfig.dev.json
+D:\projects\AlgoCourse\depth-first\bin\Debug\netcoreapp2.2\depth-first.dll
+D:\projects\AlgoCourse\depth-first\bin\Debug\netcoreapp2.2\depth-first.pdb
+D:\projects\AlgoCourse\depth-first\obj\Debug\netcoreapp2.2\depth-first.dll
+D:\projects\AlgoCourse\depth-first\obj\Debug\netcoreapp2.2\depth-first.pdb
