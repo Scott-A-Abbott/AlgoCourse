@@ -4,9 +4,9 @@ using System.Collections.Generic;
 
 namespace CycleDetection
 {
-    public class CycleDetection
+    public static class CycleDetection
     {
-        public void detectCycle(List<Vertex> list)
+        public static void detectCycle(List<Vertex> list)
         {
             foreach (Vertex v in list)
             {
@@ -16,7 +16,7 @@ namespace CycleDetection
                 }
             }
         }
-        private void dfs(Vertex vertex)
+        private static void dfs(Vertex vertex)
         {
             Console.WriteLine("DFS on Vertex: " + vertex.Name);
             vertex.BeingVisited = true;
@@ -30,11 +30,11 @@ namespace CycleDetection
                 }
                 if (!v.IsVisited)
                 {
-                    Console.WriteLine($"Visiting the vertex {v} recursively...");
+                    Console.WriteLine($"Visiting the vertex { v.Name } recursively...");
                     dfs(v);
                 }
             }
-            Console.WriteLine($"Set vertex {vertex} BeingVisited to false and Visited to true");
+            Console.WriteLine($"Set vertex {vertex.Name} BeingVisited to false and Visited to true");
             vertex.BeingVisited = false;
             vertex.IsVisited = true;
         }

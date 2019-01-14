@@ -2,3 +2,10 @@ D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detecti
 D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.csproj.CoreCompileInputs.cache
 D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.AssemblyInfoInputs.cache
 D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.AssemblyInfo.cs
+D:\projects\AlgoCourse\cycle-detection-dfs\bin\Debug\netcoreapp2.2\cycle-detection-dfs.deps.json
+D:\projects\AlgoCourse\cycle-detection-dfs\bin\Debug\netcoreapp2.2\cycle-detection-dfs.runtimeconfig.json
+D:\projects\AlgoCourse\cycle-detection-dfs\bin\Debug\netcoreapp2.2\cycle-detection-dfs.runtimeconfig.dev.json
+D:\projects\AlgoCourse\cycle-detection-dfs\bin\Debug\netcoreapp2.2\cycle-detection-dfs.dll
+D:\projects\AlgoCourse\cycle-detection-dfs\bin\Debug\netcoreapp2.2\cycle-detection-dfs.pdb
+D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.dll
+D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.pdb
