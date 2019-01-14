@@ -1,24 +1,27 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class TO
+namespace TopologicalOrdering
 {
-    private Stack<Vertex> stack = new Stack<Vertex>();
-    public Stack<Vertex> Stack
+    public class TO
     {
-        get => this.stack;
-    }
-
-    public void dfs(Vertex root)
-    {
-        root.IsVisited = true;
-        foreach (Vertex neighbor in root.Neighbors)
+        private Stack<Vertex> stack = new Stack<Vertex>();
+        public Stack<Vertex> Stack
         {
-            if(!neighbor.IsVisited)
-            {
-                dfs(neighbor);
-            }
+            get => this.stack;
         }
-        stack.Push(root);
+
+        public void dfs(Vertex root)
+        {
+            root.IsVisited = true;
+            foreach (Vertex neighbor in root.Neighbors)
+            {
+                if (!neighbor.IsVisited)
+                {
+                    dfs(neighbor);
+                }
+            }
+            stack.Push(root);
+        }
     }
 }

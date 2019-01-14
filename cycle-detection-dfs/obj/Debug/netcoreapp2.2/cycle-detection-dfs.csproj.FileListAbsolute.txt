@@ -1,0 +1,4 @@
+D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.csprojAssemblyReference.cache
+D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.csproj.CoreCompileInputs.cache
+D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.AssemblyInfoInputs.cache
+D:\projects\AlgoCourse\cycle-detection-dfs\obj\Debug\netcoreapp2.2\cycle-detection-dfs.AssemblyInfo.cs

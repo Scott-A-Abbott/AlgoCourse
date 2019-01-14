@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/wolfe/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Mozar\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wolfe/projects/c-sharp/democonsole/democonsole.csproj",
-      "projectName": "democonsole",
-      "projectPath": "/Users/wolfe/projects/c-sharp/democonsole/democonsole.csproj",
-      "packagesPath": "/Users/wolfe/.nuget/packages/",
-      "outputPath": "/Users/wolfe/projects/c-sharp/democonsole/obj/",
+      "projectUniqueName": "D:\\projects\\AlgoCourse\\cycle-detection-dfs\\cycle-detection-dfs.csproj",
+      "projectName": "cycle-detection-dfs",
+      "projectPath": "D:\\projects\\AlgoCourse\\cycle-detection-dfs\\cycle-detection-dfs.csproj",
+      "packagesPath": "C:\\Users\\Mozar\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\AlgoCourse\\cycle-detection-dfs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/wolfe/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Mozar\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

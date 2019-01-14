@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+
+namespace TopologicalOrdering
+{
 class Program
 {
     static void Main(string[] args)
@@ -37,4 +40,5 @@ class Program
             Console.Write($"{v.Data} -> ");
         }
     }
+}
 }

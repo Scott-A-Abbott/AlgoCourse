@@ -1,22 +1,25 @@
 ﻿using System;
-using static BFS;
+using static BreadthFirst.BFS;
 
-class Program
+namespace BreadthFirst
 {
-    
-    static void Main(string[] args)
+    class Program
     {
-        Vertex vertex1 = new Vertex(1);
-        Vertex vertex2 = new Vertex(2);
-        Vertex vertex3 = new Vertex(3);
-        Vertex vertex4 = new Vertex(4);
-        Vertex vertex5 = new Vertex(5);
 
-        vertex1.addNeighborVertex(vertex2);
-        vertex1.addNeighborVertex(vertex4);
-        vertex4.addNeighborVertex(vertex5);
-        vertex2.addNeighborVertex(vertex3);
+        static void Main(string[] args)
+        {
+            Vertex vertex1 = new Vertex(1);
+            Vertex vertex2 = new Vertex(2);
+            Vertex vertex3 = new Vertex(3);
+            Vertex vertex4 = new Vertex(4);
+            Vertex vertex5 = new Vertex(5);
 
-        bfs(vertex1);
+            vertex1.addNeighborVertex(vertex2);
+            vertex1.addNeighborVertex(vertex4);
+            vertex4.addNeighborVertex(vertex5);
+            vertex2.addNeighborVertex(vertex3);
+
+            bfs(vertex1);
+        }
     }
 }

@@ -1,23 +1,26 @@
 using System;
 using System.Collections.Generic;
 
-public class BFS
+namespace BreadthFirst
 {
-    public static void bfs(Vertex root)
+    public class BFS
     {
-        Queue<Vertex> queue = new Queue<Vertex>();
-        root.Visited = true;
-        queue.Enqueue(root);
-
-        while (queue.ToArray().Length > 0)
+        public static void bfs(Vertex root)
         {
-            Vertex actualVertex = queue.Dequeue();
-            Console.WriteLine($"{actualVertex.Data} ");
+            Queue<Vertex> queue = new Queue<Vertex>();
+            root.Visited = true;
+            queue.Enqueue(root);
 
-            foreach (var v in actualVertex.NeighborList)
+            while (queue.ToArray().Length > 0)
             {
-                v.Visited = true;
-                queue.Enqueue(v);
+                Vertex actualVertex = queue.Dequeue();
+                Console.WriteLine($"{actualVertex.Data} ");
+
+                foreach (var v in actualVertex.NeighborList)
+                {
+                    v.Visited = true;
+                    queue.Enqueue(v);
+                }
             }
         }
     }

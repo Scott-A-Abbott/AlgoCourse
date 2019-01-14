@@ -1,6 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using static DFS;
+using static DepthFirst.DFS;
+
+namespace DepthFirst
+{
     class Program
     {
         static void Main(string[] args)
@@ -12,7 +15,7 @@ using static DFS;
             Vertex v5 = new Vertex("5");
 
             List<Vertex> list = new List<Vertex>();
-            
+
             v1.addNeighborVertex(v2);
             v1.addNeighborVertex(v3);
             v3.addNeighborVertex(v4);
@@ -23,3 +26,4 @@ using static DFS;
             dfs(list);
         }
     }
+}
