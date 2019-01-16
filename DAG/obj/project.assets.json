@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/wolfe/projects/c-sharp/Dijkstra/Dijkstra.csproj",
-      "projectName": "Dijkstra",
-      "projectPath": "/Users/wolfe/projects/c-sharp/Dijkstra/Dijkstra.csproj",
+      "projectUniqueName": "/Users/wolfe/projects/c-sharp/DAG/DAG.csproj",
+      "projectName": "DAG",
+      "projectPath": "/Users/wolfe/projects/c-sharp/DAG/DAG.csproj",
       "packagesPath": "/Users/wolfe/.nuget/packages/",
-      "outputPath": "/Users/wolfe/projects/c-sharp/Dijkstra/obj/",
+      "outputPath": "/Users/wolfe/projects/c-sharp/DAG/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+/Users/wolfe/projects/c-sharp/DAG/bin/Debug/netcoreapp2.2/DAG.deps.json
+/Users/wolfe/projects/c-sharp/DAG/bin/Debug/netcoreapp2.2/DAG.runtimeconfig.json
+/Users/wolfe/projects/c-sharp/DAG/bin/Debug/netcoreapp2.2/DAG.runtimeconfig.dev.json
+/Users/wolfe/projects/c-sharp/DAG/bin/Debug/netcoreapp2.2/DAG.dll
+/Users/wolfe/projects/c-sharp/DAG/bin/Debug/netcoreapp2.2/DAG.pdb
+/Users/wolfe/projects/c-sharp/DAG/obj/Debug/netcoreapp2.2/DAG.csprojAssemblyReference.cache
+/Users/wolfe/projects/c-sharp/DAG/obj/Debug/netcoreapp2.2/DAG.csproj.CoreCompileInputs.cache
+/Users/wolfe/projects/c-sharp/DAG/obj/Debug/netcoreapp2.2/DAG.AssemblyInfoInputs.cache
+/Users/wolfe/projects/c-sharp/DAG/obj/Debug/netcoreapp2.2/DAG.AssemblyInfo.cs
+/Users/wolfe/projects/c-sharp/DAG/obj/Debug/netcoreapp2.2/DAG.dll
+/Users/wolfe/projects/c-sharp/DAG/obj/Debug/netcoreapp2.2/DAG.pdb
