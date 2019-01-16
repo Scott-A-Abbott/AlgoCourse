@@ -23,7 +23,7 @@ namespace Dijkstra
             get => startVertex;
             set => startVertex = value;
         }
-        public Vertex targetVertex
+        public Vertex TargetVertex
         {
             get => targetVertex;
             set => targetVertex = value;

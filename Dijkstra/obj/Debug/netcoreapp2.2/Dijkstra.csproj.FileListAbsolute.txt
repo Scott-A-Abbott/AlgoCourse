@@ -1,0 +1,11 @@
+D:\projects\AlgoCourse\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.csprojAssemblyReference.cache
+D:\projects\AlgoCourse\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.csproj.CoreCompileInputs.cache
+D:\projects\AlgoCourse\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.AssemblyInfoInputs.cache
+D:\projects\AlgoCourse\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.AssemblyInfo.cs
+D:\projects\AlgoCourse\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.deps.json
+D:\projects\AlgoCourse\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.runtimeconfig.json
+D:\projects\AlgoCourse\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.runtimeconfig.dev.json
+D:\projects\AlgoCourse\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.dll
+D:\projects\AlgoCourse\Dijkstra\bin\Debug\netcoreapp2.2\Dijkstra.pdb
+D:\projects\AlgoCourse\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.dll
+D:\projects\AlgoCourse\Dijkstra\obj\Debug\netcoreapp2.2\Dijkstra.pdb

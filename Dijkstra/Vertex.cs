@@ -35,17 +35,17 @@ namespace Dijkstra
         {
             get => adjacentcies;
         }
-        public Type Visited
+        public bool Visited
         {
             get => visited;
             set => visited = value;
         }
-        public Type Predecessor
+        public Vertex Predecessor
         {
             get => predecessor;
             set => predecessor = value;
         }
-        public Type Distance
+        public double Distance
         {
             get => distance;
             set => distance = value;
