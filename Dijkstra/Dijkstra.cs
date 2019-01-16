@@ -15,7 +15,7 @@ namespace Dijkstra
             while (!priorityQueue.IsEmpty())
             {
                 Vertex actualVertex = priorityQueue.Shift();
-                foreach (Edge edge in actualVertex.Adjacentcies)
+                foreach (Edge edge in actualVertex.Adjacencies)
                 {
                     Vertex v = edge.TargetVertex;
                     double newDistance = actualVertex.Distance + edge.Weight;

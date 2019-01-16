@@ -1,0 +1,11 @@
+/Users/wolfe/projects/c-sharp/bellman-ford/obj/Debug/netcoreapp2.2/bellman-ford.csprojAssemblyReference.cache
+/Users/wolfe/projects/c-sharp/bellman-ford/obj/Debug/netcoreapp2.2/bellman-ford.csproj.CoreCompileInputs.cache
+/Users/wolfe/projects/c-sharp/bellman-ford/obj/Debug/netcoreapp2.2/bellman-ford.AssemblyInfoInputs.cache
+/Users/wolfe/projects/c-sharp/bellman-ford/obj/Debug/netcoreapp2.2/bellman-ford.AssemblyInfo.cs
+/Users/wolfe/projects/c-sharp/bellman-ford/bin/Debug/netcoreapp2.2/bellman-ford.deps.json
+/Users/wolfe/projects/c-sharp/bellman-ford/bin/Debug/netcoreapp2.2/bellman-ford.runtimeconfig.json
+/Users/wolfe/projects/c-sharp/bellman-ford/bin/Debug/netcoreapp2.2/bellman-ford.runtimeconfig.dev.json
+/Users/wolfe/projects/c-sharp/bellman-ford/bin/Debug/netcoreapp2.2/bellman-ford.dll
+/Users/wolfe/projects/c-sharp/bellman-ford/bin/Debug/netcoreapp2.2/bellman-ford.pdb
+/Users/wolfe/projects/c-sharp/bellman-ford/obj/Debug/netcoreapp2.2/bellman-ford.dll
+/Users/wolfe/projects/c-sharp/bellman-ford/obj/Debug/netcoreapp2.2/bellman-ford.pdb
